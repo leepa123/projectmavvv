@@ -8,7 +8,7 @@ public class demotest {
 	
 	static
 	{
-		System.setProperty(" webdriver.chrome.driver", "D://chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "./driver/chromedriver.exe");
 	}
 @Test
 public void testone()

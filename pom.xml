@@ -26,11 +26,7 @@
     <suiteXmlFiles>
     <suiteXmlFile>testng.Xml </suiteXmlFile>
     </suiteXmlFiles>
-   
-
-    </configuration>
-  
-  
+    </configuration> 
   </plugin>
   </plugins>
   </build>
